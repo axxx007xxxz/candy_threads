@@ -15,8 +15,8 @@ Will be up shortly. We are still in transition from CK
 
 [U][COLOR="Red"][B][SIZE="3"]Disclaimer: We here at The CandyShop are not responsible for any bricks you may obtain. Please follow the thread rules and steps and everything will be gravy. Remember, backing up before flashing is always recommended.[/SIZE][/B] [/COLOR][/U]
 
-[SIZE="3"]Features [/SIZE]
-[B]*Candy Interface
+[B][SIZE="5"]FEATURES[/SIZE][/B]
+*Candy Interface
 
 *Navi Bar Height...Candy Interface
 
@@ -40,7 +40,7 @@ Will be up shortly. We are still in transition from CK
 
 * Visual improvements
 
-*ALL of Cm's Latest Feature Additions* [/B]
+*ALL of Cm's Latest Feature Additions* 
 
 
 [B][SIZE="5"][COLOR="red"][URL="http://the-candy-shop.co/changelog.html"]CHANGELOG[/URL][/COLOR][/SIZE][/B]
@@ -54,24 +54,24 @@ Will be up shortly. We are still in transition from CK
 [*]Full wipe (Dalvik Cache, Cache, System, Factory Data Reset)
 [*]Flash Candy5.zip 
 [*]Flash Gapps
-[*]Flash SuperSu zip (for root access) this is temp till cm gets built in root working
+[*]Flash SuperSu zip (voluntary)
 [*]Reboot and Enjoi
 [/LIST]
 
 [CENTER][IMG]http://img.tapatalk.com/d/14/07/05/be9apenu.jpg[/IMG][/CENTER]
 
-[SIZE="3"][URL="https://www.androidfilehost.com/?w=files&flid=21960"]Candy5[/URL][/SIZE]
+*[B][URL='"]Candy5[/URL][/B]
 
-* [URL="https://s.basketbuild.com/gapps"]Gapps[/URL]
+* [B][URL="https://s.basketbuild.com/gapps"]Gapps[/URL][/B]
 Or use 5.0.0 Gapps of choice
 
-* [URL="http://forum.xda-developers.com/showthread.php?t=1538053"]SuperSU[/URL]
+* [B][URL="http://forum.xda-developers.com/showthread.php?t=1538053"]SuperSU[/URL][/B]
 
 
-Please give first boot a good few minutes.
+[B][Color="RED"]Please give first boot a good few minutes.[/COLOR][/B]
 
 Candy5 is in early stages and will inherit CyanogenMod bugs and issues. But some we have resolved ourselves.
-The base has been test and passed most users needs for a Daily Driver. 
+The base has been tested and passed most users needs for a Daily Driver. 
 
 
 [SIZE="3"][B]Special thanks to CyanogenMod, SlimRoms,for making their source open.
