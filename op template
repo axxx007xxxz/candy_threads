@@ -1,16 +1,17 @@
-[CENTER][IMG]http://tapatalk.imageshack.com/v2/14/11/30/be9f9a3ce13148bb361a064d6bd05e22.jpg[/IMG][/CENTER]
+[CENTER]
+[IMG]http://tapatalk.imageshack.com/v2/14/11/30/be9f9a3ce13148bb361a064d6bd05e22.jpg[/IMG]
 
 [SIZE="3"][B]This is Candy5. Built straight from CyanogenMod source with commits from a variety of different Sources/ROMS. We wanted to give the users a fun, fully customizable ROM.We aim to add more features as this project progresses. [/B][/SIZE]
 
 [SIZE="3"][B]Check us out on the web @[/B][/SIZE][URL="http://the-candy-shop.co/"][SIZE="3"][B][COLOR="purple"]The-Candy-Shop[/B][/SIZE][/URL][/COLOR]
 
-[CENTER][IMG]http://img.tapatalk.com/d/14/07/05/2e8esupa.jpg[/IMG] [/CENTER]
+[IMG]http://img.tapatalk.com/d/14/07/05/2e8esupa.jpg[/IMG] 
 
-[CENTER]
+
 [MENTION=5020670]matthew0776[/MENTION] [MENTION=3947779]mar5hal[/MENTION] [MENTION=4779996]gimmeitorilltell[/MENTION] [MENTION=3327168]BMP7777[/MENTION] [MENTION=4708843]CyberScopes[/MENTION] [MENTION=5088242]Cuzz1369[/MENTION] [MENTION=5066258]rc420head[/MENTION] [MENTION=4678269]Flashalot[/MENTION] [MENTION=4815490]tr1gg3r84[/MENTION] [MENTION=5092898]Venomtester[/MENTION] [MENTION=4157305]Darknites[/MENTION] [MENTION=1045770]Rapier[/MENTION] [MENTION=5448938]NexusPenguin[/MENTION] [MENTION=5265704]Alx31TLse[/MENTION] [MENTION=3452732]timmytim[/MENTION]
-[/CENTER]
 
-[CENTER][IMG]http://img.tapatalk.com/d/14/07/05/qy9e6u4u.jpg[/IMG][/CENTER]
+
+[IMG]http://img.tapatalk.com/d/14/07/05/qy9e6u4u.jpg[/IMG]
 Will be up shortly. We are still in transition from CK
 
 [U][COLOR="Red"][B][SIZE="3"]Disclaimer: We here at The CandyShop are not responsible for any bricks you may obtain. Please follow the thread rules and steps and everything will be gravy. Remember, backing up before flashing is always recommended.[/SIZE][/B] [/COLOR][/U]
@@ -46,19 +47,18 @@ Will be up shortly. We are still in transition from CK
 [B][SIZE="5"][COLOR="red"][URL="http://the-candy-shop.co/changelog.html"]CHANGELOG[/URL][/COLOR][/SIZE][/B]
 
 [SIZE="3"][B]Steps:[/B][/SIZE]
-[LIST]
-[*]Download Candy5.zip
-[*]Download 5.0.+ Gapps (optional)
-[*]Place Candy5.zip on phones memory or SD card
-[*]Boot into recovery (either twrp or cwm)
-[*]Full wipe (Dalvik Cache, Cache, System, Factory Data Reset)
-[*]Flash Candy5.zip 
-[*]Flash Gapps
-[*]Flash SuperSu zip (optional)
-[*]Reboot and Enjoi
-[/LIST]
 
-[CENTER][IMG]http://img.tapatalk.com/d/14/07/05/be9apenu.jpg[/IMG][/CENTER]
+Download Candy5.zip
+Download 5.0.+ Gapps (optional)
+Place Candy5.zip on phones memory or SD card
+Boot into recovery (either twrp or cwm)
+Full wipe (Dalvik Cache, Cache, System, Factory Data Reset)
+Flash Candy5.zip 
+Flash Gapps
+Flash SuperSu zip (optional)
+Reboot and Enjoi
+
+[IMG]http://img.tapatalk.com/d/14/07/05/be9apenu.jpg[/IMG]
 
 *[B][URL="]Candy5[/URL][/B]
 
@@ -79,3 +79,7 @@ Sources:[/B][/SIZE]
 [URL="https://github.com/cyanogenmod"]CyanogenMod[/URL]
 [URL="https://github.com/slimroms"]SlimRoms[/URL]
 [URL="https://github.com/liquidsmooth"]LiquidSmooth[/URL]
+
+[IMG]http://i.imgur.com/XWkqU3e.png[/IMG]
+[B][URL="http://forum.xda-developers.com/showthread.php?t=2639618"]Download[/URL][/B]
+[/CENTER]
