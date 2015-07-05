@@ -54,7 +54,6 @@ Boot into recovery (either twrp or cwm)
 Full wipe (Dalvik Cache, Cache, System, Factory Data Reset)
 Flash Candy5.zip 
 Flash Gapps
-Flash SuperSu zip (optional)
 Reboot and Enjoi
 
 [IMG]http://img.tapatalk.com/d/14/07/05/be9apenu.jpg[/IMG]
@@ -64,13 +63,8 @@ Reboot and Enjoi
 * [B][URL="http://fitsnugly.euroskank.com/?rom=banks&device=gapps"]Gapps[/URL][/B]
 Or use 5.1 Gapps of choice
 
-* [B][URL="http://forum.xda-developers.com/showthread.php?t=1538053"]SuperSU[/URL][/B]
-
 
 [B][Color="RED"]Please give first boot a good few minutes.[/COLOR][/B]
-
-Candy5 is in early stages and will inherit CyanogenMod bugs and issues. But some we have resolved ourselves.
-The base has been tested and passed most users needs for a Daily Driver. 
 
 
 [SIZE="3"][B]Special thanks to CyanogenMod, SlimRoms,for making their source open.
