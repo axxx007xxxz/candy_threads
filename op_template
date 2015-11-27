@@ -1,55 +1,38 @@
 [CENTER]
 [IMG]http://tapatalk.imageshack.com/v2/14/11/30/be9f9a3ce13148bb361a064d6bd05e22.jpg[/IMG]
 
-[SIZE="3"][B]This is Candy5. Built straight from CyanogenMod source with commits from a variety of different Sources/ROMS. We wanted to give the users a fun, fully customizable ROM.We aim to add more features as this project progresses. [/B][/SIZE]
+[SIZE="3"][B]This is Candy5. Built straight from source with commits from a variety of different Sources/ROMS. We wanted to give the users a fun, fully customizable ROM. We aim to add more features as this project progresses. [/B][/SIZE]
 
 [SIZE="3"][B]Check us out on the web @[/B][/SIZE][URL="http://the-candy-shop.co/"][SIZE="3"][B][COLOR="purple"]The-Candy-Shop[/B][/SIZE][/URL][/COLOR]
 
 [IMG]http://img.tapatalk.com/d/14/07/05/2e8esupa.jpg[/IMG] 
 
 
- [MENTION=5020670]matthew0776[/MENTION] [MENTION=3947779]mar5hal[/MENTION] [MENTION=4779996]gimmeitorilltell[/MENTION] [MENTION=3327168]BMP7777[/MENTION] [MENTION=4708843]CyberScopes[/MENTION] [MENTION=5088242]Cuzz1369[/MENTION] [MENTION=5066258]rc420head[/MENTION] [MENTION=4678269]Flashalot[/MENTION]  [MENTION=5092898]Venomtester[/MENTION] [MENTION=4157305]Darknites[/MENTION] [MENTION=1045770]Rapier[/MENTION] [MENTION=5448938]NexusPenguin[/MENTION] [MENTION=3452732]timmytim[/MENTION] [MENTION=5511074]Bx16[/MENTION] [MENTION=5416670]Saatvik Shukla[/MENTION] [MENTION=5618877]abbychauhan[/MENTION] [MENTION=5795145]javelinanddart[/MENTION] [MENTION=5349944]calebcabob[/MENTION] [MENTION=4435460]nospamdan[/MENTION] [MENTION=5226068]Men_in_black007[/MENTION]
-
+ [MENTION=5020670]matthew0776[/MENTION] [MENTION=3947779]mar5hal[/MENTION] [MENTION=4779996]gimmeitorilltell[/MENTION] [MENTION=5088242]Cuzz1369[/MENTION] [MENTION=5066258]rc420head[/MENTION] [MENTION=4678269]Flashalot[/MENTION]  [MENTION=5092898]Venomtester[/MENTION] [MENTION=4157305]Darknites[/MENTION] [MENTION=5795145]javelinanddart[/MENTION] [MENTION=5349944]calebcabob[/MENTION] [MENTION=4435460]nospamdan[/MENTION]
 [IMG]http://img.tapatalk.com/d/14/07/05/qy9e6u4u.jpg[/IMG]
 [B][SIZE="5"][COLOR="red"][URL="https://github.com/candyroms"]ROM[/URL][/COLOR][/SIZE][/B]
-[B][SIZE="5"][COLOR="red"][URL="https://github.com/candydevices"]DEVICES[/URL][/COLOR][/SIZE][/B]
+[B][SIZE="5"][COLOR="red"][URL="https://github.com/candydevices"]DEVICES/KERNELS[/URL][/COLOR][/SIZE][/B]
 
 
 [U][COLOR="Red"][B][SIZE="3"]Disclaimer: We here at The CandyShop are not responsible for any bricks you may obtain. Please follow the thread rules and steps and everything will be gravy. Remember, backing up before flashing is always recommended.[/SIZE][/B] [/COLOR][/U]
 
 [B][SIZE="5"]FEATURES[/SIZE][/B]
-Candy Interface
-Custom navigation bar
-Battery Percent
-Recents Panel Options
-Clock and Date Options
-Wake Options
-Rotation 360 degrees
-Custom Notification Lights
-Lockscreen Notifications Per App
-IME options from 4.4+
-Disable Ime selector
-Battery Saver mode coloring
-Custom system animations
-Full Sweetner Pack compatible
+App Sidebar
 Battery bar
-Theme Engine
-Omni Switch
-Wakelock Blocker
-Custom DPI
-Lockscreen Shortcuts
-Animations
-Visual improvements
-ALL of Cm's Latest Feature Additions
+LCD denisty options
+Lockscreen shortcuts
+Multi-window
+Omni switch
+Status bar customization
 
 
 [B][SIZE="5"][COLOR="red"][URL="http://the-candy-shop.co/changelog.html"]CHANGELOG[/URL][/COLOR][/SIZE][/B]
 
 [SIZE="3"][B]Steps:[/B][/SIZE]
 
-Download Candy5.zip
-Download 5.1 Gapps (optional)
-Place Candy5.zip on phones memory or SD card
+Download Rom.zip
+Download 6.0 Gapps (optional)
+Place Rom.zip on phones memory or SD card
 Boot into recovery (either twrp or cwm)
 Full wipe (Dalvik Cache, Cache, System, Factory Data Reset)
 Flash Candy5.zip 
@@ -60,18 +43,13 @@ Reboot and Enjoy
 
 **DOWNLOAD LINK HERE**
 
-* [B][URL="http://fitsnugly.euroskank.com/?rom=banks&device=gapps"]Gapps[/URL][/B]
-Or use 5.1 Gapps of choice
+* [B][URL="http://bfy.tw/30DE"]Gapps[/URL][/B]
 
 
 [B][Color="RED"]Please give first boot a good few minutes.[/COLOR][/B]
 
 
-[SIZE="3"][B]Special thanks to CyanogenMod, SlimRoms,for making their source open.
-Sources:[/B][/SIZE]
-[URL="https://github.com/cyanogenmod"]CyanogenMod[/URL]
-[URL="https://github.com/slimroms"]SlimRoms[/URL]
-[URL="https://github.com/liquidsmooth"]LiquidSmooth[/URL]
+[SIZE="3"][B]Special thanks to CyanogenMod, SlimRoms, Omni and all the rest who make their source open, we can't do this on our own.
 
 [IMG]http://i.imgur.com/XWkqU3e.png[/IMG]
 [B][URL="http://forum.xda-developers.com/showthread.php?t=2639618"]Download[/URL][/B]
