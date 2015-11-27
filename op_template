@@ -30,18 +30,23 @@ Status bar customization
 
 [SIZE="3"][B]Steps:[/B][/SIZE]
 
-Download Rom.zip
-Download 6.0 Gapps (optional)
-Place Rom.zip on phones memory or SD card
-Boot into recovery (either twrp or cwm)
-Full wipe (Dalvik Cache, Cache, System, Factory Data Reset)
-Flash CandySiX.zip 
-Flash Gapps
-Reboot and Enjoy
+[U]Coming from another rom[/U]
+1) Download CandySiX.zip
+2) Download 6.0 Gapps (optional)
+3) Boot into recovery (either twrp or cwm)
+4) Full wipe (Dalvik Cache, Cache, System, Factory Data Reset)
+5) Flash CandySiX.zip 
+6) Flash Gapps
+7) Reboot
+
+[U]Updating from previous CandySiX release[/U]
+1) Download CandySiX.zip
+2) Boot into recovery
+3) Flash CandySiX.zip 
 
 [IMG]http://img.tapatalk.com/d/14/07/05/be9apenu.jpg[/IMG]
 
-[SIZE="6"][URL="REPLACE THIS WITH DEVICE FOLDER ON AFH"]DOWNLOAD ROM[/URL][/SIZE]
+[SIZE="6"][URL="https://androidfilehost.com/?w=files&flid=22059"]DOWNLOAD ROM[/URL][/SIZE]
 
 [SIZE="5"][B][URL="https://www.androidfilehost.com/?w=files&flid=41020"]GAPPS[/URL][/B][/SIZE]
 
@@ -49,6 +54,6 @@ Reboot and Enjoy
 [B][Color="RED"]Please give first boot a good few minutes.[/COLOR][/B]
 
 
-Special thanks to CyanogenMod, SlimRoms, Omni and all the rest who make their source open, we can't do this on our own.
+[SIZE="3"][B]Special thanks to CyanogenMod, SlimRoms, Omni and all the rest who make their source open, we can't do this on our own.
 
 [/CENTER]
