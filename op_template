@@ -19,27 +19,22 @@
 [U][COLOR="Red"][B][SIZE="3"]Disclaimer: We here at The CandyShop are not responsible for any bricks you may obtain. Please follow the thread rules and steps and everything will be gravy. Remember, backing up before flashing is always recommended.[/SIZE][/B] [/COLOR][/U]
 
 [B][SIZE="5"]FEATURES[/SIZE][/B]
+Layers
 Battery bar
 LCD denisty options
-Lockscreen shortcuts
 Multi-window
-Omni switch
 Status bar customization
-Custom lockscreen wallpaper/see through/blur
-Headsup toggle
 Quick setting customization
-Tons of qs tiles
 Quick setting pull down options
 Force expand notifications
-SystemUI tuner to CandyInterface
 Time context headers in panel
-Lockscreen weather
 DarkUI switch
 Navbar customization:
     -Navbar button color
     -Slim-Dim
     -Navbar DPI
     -DT2S on Navbar
+More to come, we are never done...
 
 [B][SIZE="5"][COLOR="red"][URL="https://docs.google.com/document/d/1DMCYosPotf8Q0RmtNbpNipr2ib0u2keBICUIX-J6m6k"]CHANGELOG[/URL][/COLOR][/SIZE][/B]
 
@@ -63,10 +58,13 @@ Navbar customization:
 
 [SIZE="6"][URL="REPLACE THIS WITH DEVICE FOLDER ON AFH"]DOWNLOAD ROM[/URL][/SIZE]
 
-[SIZE="5"][B][URL="https://www.androidfilehost.com/?w=files&flid=41020"]GAPPS[/URL][/B][/SIZE]
+[SIZE="5"][B][URL="https://www.androidfilehost.com/?w=files&flid=41020"]Bank's GAPPS[/URL][/B][/SIZE]
 
 
-[B][Color="RED"]Please give first boot a good few minutes.[/COLOR][/B]
+[B][Color="RED"]
+-Please give first boot a good few minutes
+-Still in alpha stage with new additions and fixes being added constantly
+[/COLOR][/B]
 
 
 [SIZE="3"][B]Special thanks to CyanogenMod, SlimRoms, Omni and all the rest who make their source open, we can't do this on our own. [/b][/size]
