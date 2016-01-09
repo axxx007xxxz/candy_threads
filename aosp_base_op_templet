@@ -17,7 +17,7 @@
 
 
 [U][COLOR="Red"][B][SIZE="3"]Disclaimer: We here at The CandyShop are not responsible for any bricks you may obtain. Please follow the thread rules and steps and everything will be gravy. Remember, backing up before flashing is always recommended.[/SIZE][/B] [/COLOR][/U]
-[/CENTER]
+
 
 [B][SIZE="5"]FEATURES[/SIZE][/B]
 Layers
@@ -31,6 +31,8 @@ Force expand notifications
 Time context headers in panel
 DarkUI switch
 Advanced power menu
+Extra IME options
+Lockscreen shortcuts
 Animations
     -Power munu
     -List view
@@ -41,13 +43,16 @@ Navbar customization:
     -Slim-Dim
     -Navbar DPI
     -DT2S on Navbar
+ Buttons settings:
+    -Long-press/double-tap actions
+    -Volume rocker   
 More to come, we are never done...
 
 [B][SIZE="5"][COLOR="red"][URL="https://docs.google.com/document/d/1DMCYosPotf8Q0RmtNbpNipr2ib0u2keBICUIX-J6m6k"]CHANGELOG[/URL][/COLOR][/SIZE][/B]
 
 [SIZE="3"][B]Steps:[/B][/SIZE]
 
-[U]Coming from another rom[/U]
+[B][U]Coming from another rom[/U][/B]
 1) Download CandySiX.zip
 2) Download 6.0 Gapps (optional)
 3) Boot into recovery (either twrp or cwm)
@@ -56,14 +61,15 @@ More to come, we are never done...
 6) Flash Gapps
 7) Reboot
 
-[U]Updating from previous CandySiX release[/U]
+[B][U]Updating from previous CandySiX release[/U][/B]
 1) Download CandySiX.zip
 2) Boot into recovery
-3) Flash CandySiX.zip 
-[CENTER]
+3) Flash CandySiX.zip
+4) Reboot
+
 [IMG]http://img.tapatalk.com/d/14/07/05/be9apenu.jpg[/IMG]
 
-[SIZE="6"][URL="LINK TO ROM HERE"]DOWNLOAD ROM[/URL][/SIZE]
+[SIZE="5"][URL="LINK TO ROM HERE"]DOWNLOAD ROM[/URL][/SIZE]
 
 [SIZE="5"][B][URL="https://www.androidfilehost.com/?w=files&flid=41020"]Bank's GAPPS[/URL][/B][/SIZE]
 
@@ -74,6 +80,6 @@ More to come, we are never done...
 [/COLOR][/B]
 
 
-[SIZE="3"][B]Special thanks to CyanogenMod, SlimRoms, Omni and all the rest who make their source open, we can't do this on our own. [/b][/size]
+[SIZE="3"][B]Special thanks to CyanogenMod, SlimRoms, Omni and all the rest who make their source open. We can't do this on our own. [/b][/size]
 
 [/CENTER]
