@@ -1,21 +1,21 @@
-[CENTER]
-[url=http://postimg.org/image/cvo8r4wbr/full/][img]http://s7.postimg.org/pztt3todn/Candy_Si_X_banner.png[/img][/url]
+[CENTER][img]http://s7.postimg.org/pztt3todn/Candy_Si_X_banner.png[/img]
 
-[SIZE="3"][B]This is CandySiX. Built straight from source with commits from a variety of different Sources/ROMS. We wanted to give the users a fun, fully customizable ROM. We aim to add more features as this project progresses. [/B][/SIZE]
+[SIZE="3"][B]This is Candy7. Built straight from source with commits from a variety of different Sources/ROMS. We wanted to give the users a fun, fully customizable ROM. We aim to add more features as this project progresses. [/B][/SIZE]
 
-[SIZE="3"][B]Check us out on the web @[/B][/SIZE][URL="http://the-candy-shop.co/"][SIZE="3"][B][COLOR="purple"]The-Candy-Shop[/B][/SIZE][/URL][/COLOR]
+[SIZE="3"][B]Check us out on the web [/B][/SIZE][URL="http://the-candy-shop.co/"][SIZE="3"][COLOR="purple"][B]The-Candy-Shop[/B][/COLOR][/SIZE][/URL]
 
-[IMG]http://img.tapatalk.com/d/14/07/05/2e8esupa.jpg[/IMG] 
+
+[IMG]http://img.tapatalk.com/d/14/07/05/2e8esupa.jpg[/IMG]
 
 [B]LEAD DEVELOPMENT TEAM
- [MENTION=6755930]Yoshi_Guy[/MENTION] [MENTION=5066258]rc420head[/MENTION] [MENTION=5088242]Cuzz1369[/MENTION] 
- [/B]
+[MENTION=6755930]Yoshi_Guy[/MENTION] [MENTION=5066258]rc420head[/MENTION] [MENTION=5088242]Cuzz1369[/MENTION][/B]
  
- Contributors
+Contributors
 [MENTION=4678269]Flashalot[/MENTION] [MENTION=5092898]Venomtester[/MENTION] [MENTION=5795145]javelinanddart[/MENTION] [MENTION=5349944]calebcabob[/MENTION] [MENTION=4435460]NoSpamDan[/MENTION] [MENTION=4779996]gimmeitorilltell[/MENTION]
 
 Founding members
- [MENTION=5020670]matthew0776[/MENTION]  [MENTION=4435460]Mar5hal[/MENTION]
+[MENTION=5020670]matthew0776[/MENTION]  [MENTION=4435460]Mar5hal[/MENTION]
+
 
 [IMG]http://img.tapatalk.com/d/14/07/05/qy9e6u4u.jpg[/IMG]
 
@@ -26,8 +26,9 @@ Founding members
 [U][COLOR="Red"][B][SIZE="3"]Disclaimer: We here at The CandyShop are not responsible for any bricks you may obtain. Please follow the thread rules and steps and everything will be gravy. Remember, backing up before flashing is always recommended.[/SIZE][/B] [/COLOR][/U]
 [/CENTER]
 
+
 [B][SIZE="5"]FEATURES[/SIZE][/B]
-Layers
+Substratum
 Battery bar
 LCD denisty options
 Multi-window
@@ -36,52 +37,44 @@ Quick setting customization
 Quick setting pull down options
 Force expand notifications
 Time context headers in panel
-DarkUI switch
 Advanced power menu
-Animations
-    -Power munu
-    -List view
-    -System
-    -Toast
 Navbar customization:
-    -Navbar button color
-    -Slim-Dim
-    -Navbar DPI
-    -DT2S on Navbar
-Slim recents
-Omniswitch
-App circle sidebar
+    - Smartbar
+    - Fling
 Gestures
-Pie
 Lockscreen customizations
 
 More to come, we are never done...
 
-[B][SIZE="5"][COLOR="red"][URL="https://docs.google.com/document/d/1DMCYosPotf8Q0RmtNbpNipr2ib0u2keBICUIX-J6m6k"]CHANGELOG[/URL][/COLOR][/SIZE][/B]
 
 [SIZE="3"][B]Steps:[/B][/SIZE]
 
-[U]Coming from another rom[/U]
-1) Download CandySiX.zip
-2) Download 6.0 Gapps (optional)
-3) Boot into recovery (either twrp or cwm)
-4) Full wipe (Dalvik Cache, Cache, System, Factory Data Reset)
-5) Flash CandySiX.zip 
-6) Flash Gapps
-7) Reboot
+[U]Coming from another ROM[/U]
+1) Download Candy7.zip
+2) Download 7.0 GApps (optional)
+3) Download SuperSU (optional)
+4) Boot into recovery
+5) Full wipe (Dalvik Cache, Cache, System, Factory Data Reset)
+6) Flash Candy7.zip
+7) Flash GApps
+8) Flash SuperSU
+9) Reboot.
 
-[U]Updating from previous CandySiX release[/U]
-1) Download CandySiX.zip
+[U]Updating from previous Candy7 release[/U]
+1) Download Candy7.zip
 2) Boot into recovery
-3) Flash CandySiX.zip 
-[CENTER]
-[IMG]http://img.tapatalk.com/d/14/07/05/be9apenu.jpg[/IMG]
+3) Flash Candy7.zip 
+4) For now you need to flash GApps and SuperSU again too (if you want them).
+
+
+[CENTER][IMG]http://img.tapatalk.com/d/14/07/05/be9apenu.jpg[/IMG]
 
 [SIZE="6"][URL="REPLACE THIS WITH DEVICE FOLDER ON AFH"]DOWNLOAD ROM[/URL][/SIZE]
 
-[SIZE="5"][B][URL="https://www.androidfilehost.com/?w=files&flid=41020"]Bank's GAPPS[/URL][/B][/SIZE]
+[SIZE="5"][B][URL="http://forum.xda-developers.com/android/software/gapps-dynamic-gapps-t3487192"]Dynamic GApps[/URL][/B][/SIZE]
+
+[SIZE="5"][B][URL="http://forum.xda-developers.com/apps/supersu/stable-2016-09-01supersu-v2-78-release-t3452703"]SuperSU[/URL][/B][/SIZE]
 
 
-[SIZE="3"][B]Special thanks to CyanogenMod, SlimRoms, Omni and all the rest who make their source open, we can't do this on our own. [/b][/size]
 
-[/CENTER]
+[SIZE="3"][B]Special thanks to CyanogenMod, SlimRoms, Omni and all the rest who make their source open, we can't do this on our own. [/b][/size][/CENTER]

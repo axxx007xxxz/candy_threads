@@ -1,5 +1,5 @@
-helps keep track of threads
+Helps keep track of threads
 =======
-Add a file with your xda name containing links to your candy5 threads
+Add a file with your XDA name containing links to your Candy7 threads.
 
-add a link to your download FOLDER (not just to the rom itself) in the DL_Links file
+Add a link to your download FOLDER (not just to the ROM itself) in the DL_Links file.
